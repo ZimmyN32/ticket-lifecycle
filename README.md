@@ -24,26 +24,25 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+As an end-user, create the following ticket
+  - entire mobile/online banking system is down
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+<img src="https://i.imgur.com/YKpWnnH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+As a Help Desk Agent (John), observe the ticket’s properties
+  - Priority
+  - Department
+  - SLA
+  - Assigned To
+
+<img src="https://i.imgur.com/wJ1ElLE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Set Properties to the ticket
+  - Sev-A (1 hour, 24/7)
+  - Online Banking Department
+
+<img src="https://i.imgur.com/aWYmuvz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/7W0bTVa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Attempt to observe the ticket again as “John”. Can you view or change?
+
+Work the ticket to completion as Jane
